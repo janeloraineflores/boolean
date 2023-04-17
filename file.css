@@ -1,0 +1,65 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 800px;
+    margin: auto;
+    padding: 50px;
+}
+
+
+header> img{
+   width: 150px;
+   padding-top: 5%;
+   padding-left: 30%;
+}
+
+header> h2{
+    font-family: 'Trebuchet MS', sans-serif;
+    padding-left: 25%;
+    color: rgb(60, 236, 60);
+}
+
+nav> div{
+    padding-left: 25%;
+    background-color: rgb(60, 236, 60);
+}
+
+button{
+   margin-top: 2%;
+   margin-bottom: 2%;
+      
+}
+
+
+#orange{
+    
+    width: 200px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+#green{
+    width: 400px;
+    height: 20px;
+    background-color: rgb(56, 197, 56);
+    border-radius: 5px;
+}
+
+#red{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(246, 92, 92);
+    border-radius: 5px;
+}
+
+.white{
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+  
